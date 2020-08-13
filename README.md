@@ -2,7 +2,7 @@
 
 
 🧠 learning react, jenkins, design, testing  
-📓 interested in machine learning, AI  
+📓 interested in machine learning, and AI  
 💜 loving ...  
 
 
