@@ -1,7 +1,7 @@
 ### Mobile Developer
 
 
-🧠 learning react, jenkins, design, testing  
+🧠 learning jetpack compose, jenkins, design, testing  
 📓 interested in machine learning, and AI  
 💜 loving ...  
 
