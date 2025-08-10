@@ -7,7 +7,7 @@ Developer
 I've been a developer for 5+ years. My current focus is in mobile development but I am also interested in web and AI.
 
 * 🌍  I'm based in Ontario, Canada
-* 🧠  I'm learning I'm learning typescript, rust, and figma
+* 🧠  I'm learning I'm learning typescript, and figma
 * ⚡  I like to build Gundam models
 * ⚡  I like to make pottery
 
