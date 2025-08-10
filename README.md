@@ -9,6 +9,7 @@ I've been a developer for 5+ years. My current focus is in mobile development bu
 * 🌍  I'm based in Ontario, Canada
 * 🧠  I'm learning I'm learning typescript, rust, and figma
 * ⚡  I like to build Gundam models
+* ⚡  I like to make pottery
 
 ### Skills
 
